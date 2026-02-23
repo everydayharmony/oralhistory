@@ -20,7 +20,7 @@ source-code: https://github.com/oralhistoryasdata/template
 # title of site appears in banner
 title: Everyday Harmony Oral History 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: We make music
+tagline: Everyday barbershoppers, everyday harmony
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "The Everyday Harmony Oral History project collects and preserves the personal stories of barbershop singers, highlighting their unique experiences, challenges, and achievements as they preserve and promote music in the barbershop style. This site is built with 'Oral History as Data' (OHD), a free, open-source framework for publishing, analyzing, and visualizing coded oral history interviews.(Learn more about OHD at: https://oralhistoryasdata.github.io/about.html)."
@@ -48,10 +48,10 @@ metadata: everyday-harmony-metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+#organization-name: "Center for Digital Inquiry and Learning (CDIL)"
+#organization-link: https://cdil.lib.uidaho.edu/
+organization-logo-banner: everyday-harmony/assets/img/logo.png
+organization-logo-nav: everyday-harmony/assets/img/logo.png
 
 ##########
 # ROBOTS EXCLUDE
