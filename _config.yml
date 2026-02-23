@@ -48,8 +48,8 @@ metadata: everyday-harmony-metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-#organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-#organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Northeastern University NULab for Digital Humanities and Computational Social Science"
+organization-link: https://cssh.northeastern.edu/nulab/
 organization-logo-banner: everyday-harmony/assets/img/logo.png
 organization-logo-nav: everyday-harmony/assets/img/logo.png
 
