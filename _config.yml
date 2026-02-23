@@ -18,12 +18,12 @@ source-code: https://github.com/oralhistoryasdata/template
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Oral History as HARMONY
+title: Everyday Harmony Oral History 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: We make music
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Oral History as Data (OHD) tool is a static website generator that allows users to analyze and publish coded oral history or qualitative interview files. More information about the project and how to use it be found on [the project website](https://oralhistoryasdata.github.io/about.html)."
+description: "The Everyday Harmony Oral History project collects and preserves the personal stories of barbershop singers, highlighting their unique experiences, challenges, and achievements as they preserve and promote music in the barbershop style. This site is built with 'Oral History as Data' (OHD), a free, open-source framework for publishing, analyzing, and visualizing coded oral history interviews.(Learn more about OHD at: https://oralhistoryasdata.github.io/about.html)."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: dcnb
 
