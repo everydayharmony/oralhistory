@@ -50,8 +50,8 @@ metadata: everyday-harmony-metadata
 #
 organization-name: "Northeastern University NULab for Digital Humanities and Computational Social Science"
 organization-link: https://cssh.northeastern.edu/nulab/
-organization-logo-banner: everyday-harmony/assets/img/logo.png
-organization-logo-nav: everyday-harmony/assets/img/logo.png
+organization-logo-banner: assets/img/logo.png
+organization-logo-nav: assets/img/logo.png
 
 ##########
 # ROBOTS EXCLUDE
